@@ -1,6 +1,9 @@
  
+![unnamed](https://github.com/LandaAbhishek/Microsoft-AI-Skills-Challenge-in-Azure-Machine-Learning-from-Microsoft-Learn/assets/170428965/846db0d8-8369-4b9f-b66e-9b83eead65dd)
 
- 
+Microsoft Learn Username: LandaAbhishek-2293
+
+Achievements & Badges: [\#Click Here To Know More](https://learn.microsoft.com/en-us/users/landaabhishek-2293/?tab=applied-skills-tab)
 
 🌟 Exciting Educational Milestone Achieved! 🌟  
   
