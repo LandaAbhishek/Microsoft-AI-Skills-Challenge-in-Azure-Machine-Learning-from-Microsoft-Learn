@@ -3,7 +3,7 @@
 
 Microsoft Learn Username: LandaAbhishek-2293
 
-Achievements & Badges: [\#Click Here To Know More](https://learn.microsoft.com/en-us/users/landaabhishek-2293/?tab=applied-skills-tab)
+Achievements & Badges: [\#Click Here To Know More](https://learn.microsoft.com/en-us/users/landaabhishek-2293/achievements?tab=applied-skills-tab)
 
 🌟 Exciting Educational Milestone Achieved! 🌟  
   
